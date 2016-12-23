@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.camacaritur" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pescweb" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>AppPescWebTime</name>
     <description>
         Esse App foi criado para auxiliar na Previsão do Tempo de Camaçari e ou outra região vista pelo IP do seu NAVEGADOR.
